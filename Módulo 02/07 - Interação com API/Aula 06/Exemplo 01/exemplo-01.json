@@ -1,0 +1,26 @@
+[
+  { 
+    "img":"https://st5.depositphotos.com/29543908/64555/i/380/depositphotos_645550872-stock-photo-chinese-man-hand-face-thoughtful.jpg",
+    "nome": "Marcos",
+    "sobrenome":"Almeida",
+    "idade": 30,
+    "cor": "branco"
+  },
+
+  {
+    "img": "https://st4.depositphotos.com/3433891/23034/i/380/depositphotos_230346996-stock-photo-young-handsome-entrepreneur-man-face.jpg",
+    "nome": "Paulo",
+    "sobrenome" :"Andrade",
+    "idade" : 25,
+    "cor": "moreno"
+  },
+
+
+  {
+    "img":"https://st.depositphotos.com/1743476/2514/i/380/depositphotos_25144721-stock-photo-pensive-businessman.jpg",
+    "nome": "Joao",
+    "sobrenome": "Silva",
+    "idade": 20,
+    "cor": "pardo"
+  }
+]

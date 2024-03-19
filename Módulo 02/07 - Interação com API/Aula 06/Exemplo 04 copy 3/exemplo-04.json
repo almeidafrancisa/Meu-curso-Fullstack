@@ -1,0 +1,36 @@
+[
+  {
+    "img":"https://santalolla.vtexassets.com/arquivos/ids/331716-300-300?v=638291878892130000&width=300&height=300&aspect=true",
+   "nome": "Bolsa",
+   "descricao":"Bolsa Santa Lolla Metalizada Prata",
+   "valorComDesconto":7711.00,
+   "valorSemDesconto":1000.00
+},
+
+
+{
+  "img":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRzRtrBlJVYVQEJT_g6LutDYBP99zJTq00nhg&usqp=CAU",
+  "nome": "bolsa",
+  "descricao":"Bolsa de Couro Griffazzi Verde Oliva",
+  "valorComDesconto":8711.00,
+  "valorSemDesconto":1500.00
+},
+
+
+{
+  "img":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTzReaShB_MDh3571BbU6pw0hs6WAaxRXv0Dnd-r-7RIp-mQ_J4gHVYxMWfDpf8H-KcpUs&usqp=CAU",
+  "nome": "Bolsa",
+  "descricao":"Bolsa Sacola Couro Griffazzi Azul",
+  "valorComDesconto":11499.00,
+  "valorSemDesconto":12899.00
+},
+
+{
+  "img":"https://media.muccashop.com.br/muccashop/8f67f5e74f65/bolsa-its-palha-azul-marinho.214x311.jpg",
+  "nome": "Bolsa",
+  "descricao":"Bolsa Sacola Santa Lolla Logo Azul-Mari",
+  "valorComDesconto":65990.00,
+  "valorSemDesconto":80090.00
+}
+
+]

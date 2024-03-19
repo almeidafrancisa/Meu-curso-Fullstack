@@ -1,0 +1,28 @@
+[
+ {
+    "id":1,
+  "img":"https://www.honda.com.br/motos/sites/hda/files/styles/product_200x128/public/2023-01/moto-honda-cb-300f-twister-cinza-metalico-cbs-2023-v1.webp?itok=cRaJpSUg",
+  "nome":"Twist",
+  "marca":"cb",
+  "valor": 22370,
+  "cor": "Vermelha"
+ },
+
+ {
+    "id":2,
+  "img":"https://www.honda.com.br/motos/sites/hda/files/styles/product_200x128/public/2023-07/imagem-home-moto-honda-nxr-160-bros-esdd-branco-2024.webp?itok=Ge-fcn9Y",
+  "nome":"Bros",
+  "marca":"Zx",
+  "valor":19060,
+  "cor":"Preta"
+ },
+
+ {
+    "id":3,
+  "img":"https://www.honda.com.br/motos/sites/hda/files/styles/product_200x128/public/2023-07/moto_honda_adv_verde_fosco.webp?itok=sCXtboV-",
+  "nome":"Honda",
+  "marca":"Abv",
+  "valor":23600,
+  "cor":"Braca"
+ }
+]
