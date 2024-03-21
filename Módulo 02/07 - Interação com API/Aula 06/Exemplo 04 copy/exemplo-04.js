@@ -23,17 +23,35 @@ async function busca(){
 
         </div>
       `
-  }
-
-  let divsCards = document.getElementsByClassName("card")
+ }
+   // Busca por todos elemento html que contén"card"
+   //como valor do parãmentro"class"
+   let divsCards = document.getElementsByClassName("card")//foi criado 4 divis por que 
+   //diviscard recebe h3 que tiver a classe card
+   //add em cada div card um evento que esculta quando 
+   //o usuario clica nele,e chama uma funcao
   for(let card of divsCards){
-    card.addEventListener("click",clicou)
-  }
+    //o for criou essa variavel vai pecorrer todo elemnto do card e contem  div por completo
+    card.addEventListener("click",clicou)//é uma acao:adicionando objeto de esculta exemplo (click) ao card esculta.
+    //o usuario clica nele,e chama uma funcao
+    // chama a funcao clicou.
+    //é uma acao:adicionando objeto de esculta exemplo (click) ao card esculta.
+   
+ }
+}
+
+// é chamada essa funcao quando o usuario clica em card que contem o evento de escuta
+function clicou(){
+  //console.log chama div 
+  let elementoId = this.getAttribute("data-id")//coleta o valor do atributo"data-id"do elemento html que acionou o evento de esculta
+  //criou uma variavel ,this esta se referindo a div que chamou ele a funçao. como this recebe a div que foi clicada  a div clicou,por que 
+  //só a div tem uma esculta
+  
+  window.location.href="detalhes.html?produto-id=" + elementoId
+  //aparece o  endereço atual do URL
+
+  
+  
 }
 
 busca()
-
-function clicou(){
-  let getElementoId = this.getAttribute("data-id")
-  alert(getElementoId)
-}
