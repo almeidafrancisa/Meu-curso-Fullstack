@@ -21,7 +21,7 @@
 
   .valorSem{
     color: red;
-    font-size: 15px;
+    font-size: 10px;
     text-decoration: line-through;
   }
   .freme-div{
@@ -32,3 +32,14 @@
     flex-direction: row;
 
   }
+  .descricao{
+    text-align: justify;
+
+  }
+  .detalhes{
+    background-color: aliceblue;
+    display: flex;
+    flex-wrap: wrap;
+
+  }
+  

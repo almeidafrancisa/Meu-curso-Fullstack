@@ -12,7 +12,7 @@ async function busca(){
         <div class="card" data-id="${produto.id}">
 
         <div class="grupo-img">
-        <img src="${produto.img}"alt="Não renderizou" width="250" height="250">
+        <img src="${produto.img}" width="250" height="250">
         </div class="freme-div">
         <h3>${produto.nome}</h3>
         <P>${produto.descricao}</P>
